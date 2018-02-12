@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialsDBClient", "MaterialsDBClient\MaterialsDBClient.csproj", "{F13A51D0-3A9D-4529-8E1E-2FDC7A8BE9DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialsLibrary", "MaterialsLibrary\MaterialsLibrary.csproj", "{B9928063-C9B9-4F71-959A-04122CBBFACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F13A51D0-3A9D-4529-8E1E-2FDC7A8BE9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13A51D0-3A9D-4529-8E1E-2FDC7A8BE9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13A51D0-3A9D-4529-8E1E-2FDC7A8BE9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9928063-C9B9-4F71-959A-04122CBBFACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9928063-C9B9-4F71-959A-04122CBBFACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9928063-C9B9-4F71-959A-04122CBBFACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9928063-C9B9-4F71-959A-04122CBBFACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
